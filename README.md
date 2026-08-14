@@ -207,6 +207,7 @@ Employees with higher productivity levels generally received higher incentives, 
 └── 📁 Screenshots
         └── Dashboard_View.png
 ![Text Alt](https://github.com/itsmeangell30-cpu/Mini-Project-Excel-Power-BI/blob/2333f1db26c059bc18cc44b92ed79d6723e032b9/Screenshot%202026-07-27%20213048.png)
+![Text Alt](https://github.com/itsmeangell30-cpu/Mini-Project-Excel-Power-BI/blob/8fd5e0c9b1dbd84850251e00b72349452d2a2109/Screenshot%202026-07-29%20232801.png)
 🎯 Project Outcome
 
 This project demonstrates how raw manufacturing data can be converted into actionable insights using Excel and Power BI.
