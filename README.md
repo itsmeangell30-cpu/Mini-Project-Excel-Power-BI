@@ -202,8 +202,9 @@ Employees with higher productivity levels generally received higher incentives, 
 This project demonstrates how raw manufacturing data can be converted into actionable insights using Excel and Power BI.
 
 
-![Dashboard Output](Dashboard_Output.png)
-![Dashboard Outputt](Dashboard_Outputt.png)
+![Dashboard Output 1](./Dashboard_Output_1.png)
+
+![Dashboard Output 2](./Dashboard_Output_2.png)
 
 The final dashboard enables decision-makers to:
 
