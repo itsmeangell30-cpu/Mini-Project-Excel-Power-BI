@@ -203,7 +203,7 @@ This project demonstrates how raw manufacturing data can be converted into actio
 
 
 ![Dashboard Output](Dashboard_Output.png)
-![Dashboard Output](Dashboard_Outputt.png)
+![Dashboard Outputt](Dashboard_Outputt.png)
 
 The final dashboard enables decision-makers to:
 
